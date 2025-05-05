@@ -1,0 +1,4 @@
+pyquibbler
+ipykernel
+jupyter
+yfinance
